@@ -5,7 +5,7 @@
 Battleship is a 2 player game. Each player has some number of ships of different lengths that they can place on their board. They do not tell their opponent where their ships are. Once both players have placed their ships, they take turns guessing board coordinates to “bomb”. If a ship is fully bombed, it sinks. The player who sinks all their opponent’s ships first wins.
 
 ## [Play Game Online](https://dof6zk3ac10cx.cloudfront.net)
-The Battleship Game is Deployed on AWS and is served Cloudfront CDN.
+The Battleship Game is Deployed on AWS and is served through Cloudfront CDN.
 
 ## How to start
 
